@@ -1,6 +1,6 @@
 # Java
 
-🚀 Welcome to my Java Learning Playground! This repository is my hands-on journey into the world of Java programming. As I navigate through the fundamentals and beyond, you'll find a collection of projects and exercises that reflect my learning process.
+🚀 Welcome to my Java Repository. This repository is my hands-on journey into the world of Java programming. As I navigate through the fundamentals and beyond, you'll find a collection of projects and exercises that reflect my learning process.
 
 DataTypesExploration: Dive into the world of Java data types with practical examples.
 ControlFlowAdventure: Embark on an adventure exploring loops and conditional statements in Java.
