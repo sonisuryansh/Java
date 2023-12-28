@@ -1,4 +1,4 @@
-public class Reccursion_34 {
+public class Reccursion{
     static int factorial(int n) {
         if (n == 0 || n == 1) {
             return 1;
