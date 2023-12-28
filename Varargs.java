@@ -1,4 +1,4 @@
-public class Varargs_33 {
+public class Varargs{
     static int sum( int x,int...arr){
         int result =x;
         for(int a: arr){
